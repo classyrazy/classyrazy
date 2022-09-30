@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Vue.js or Nodejs projects
 - ⚡ Fun fact: I love music
 
-<h3 align="left">Connect</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/classyrazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__adewale" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdulrazaq-adewale-76b2841b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sulaiman-adewale-638112145" height="30" width="40" /></a>
