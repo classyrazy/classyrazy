@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adewale Abdulrazaq</h1>
-<h3 align="center">A half-stack developer from Nigeria</h3>
+<h3 align="center">A Full-stack developer from Nigeria</h3>
 
 - 🔭 I’m currently working on [Corep](https://corepng.netlify.app/)
 - 🌱 I’m currently chilling with some backend technologies like nodejs, go, avandajs
