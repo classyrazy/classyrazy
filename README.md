@@ -2,10 +2,11 @@
 <h1 align="center">Hi 👋, I'm Adewale Abdulrazaq</h1>
 <h3 align="center">A Full-stack developer from Nigeria</h3>
 
-- 🔭 Worked on [Corep](https://corep.ng)
+- 🔭 I explore varieties of tools to build awesome projects
 - 🌱 I’m currently working with some backend technologies like Nodejs, Go
 - 👯 I’m looking to collaborate on Vue.js or Nodejs projects
-- ⚡ Fun fact: I love music
+- ⚡ Fun fact: I love listening to music
+- Check out my portfolio https://classydev.me/
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
